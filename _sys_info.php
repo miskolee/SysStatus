@@ -1,4 +1,6 @@
 <?php
+/****** the interface defined all method of class SysStatus*****/
+
 
 interface _sys_info
 {
